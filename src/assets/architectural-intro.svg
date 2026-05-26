@@ -1,0 +1,57 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="#171512"/>
+  <g opacity="0.16" stroke="#F8F0E1" stroke-width="1">
+    <path d="M0 130H1600"/>
+    <path d="M0 260H1600"/>
+    <path d="M0 390H1600"/>
+    <path d="M0 520H1600"/>
+    <path d="M0 650H1600"/>
+    <path d="M0 780H1600"/>
+    <path d="M130 0V1000"/>
+    <path d="M260 0V1000"/>
+    <path d="M390 0V1000"/>
+    <path d="M520 0V1000"/>
+    <path d="M650 0V1000"/>
+    <path d="M780 0V1000"/>
+    <path d="M910 0V1000"/>
+    <path d="M1040 0V1000"/>
+    <path d="M1170 0V1000"/>
+    <path d="M1300 0V1000"/>
+    <path d="M1430 0V1000"/>
+  </g>
+  <g opacity="0.72" stroke="#F8F0E1" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M152 744L742 404L1448 652" stroke-width="2"/>
+    <path d="M260 746L742 472L1324 678" stroke-width="1.4"/>
+    <path d="M388 742L742 542L1198 704" stroke-width="1.2"/>
+    <path d="M742 404V796" stroke-width="2"/>
+    <path d="M152 744V850L742 962L1448 846V652" stroke-width="2"/>
+    <path d="M742 796L1448 652" stroke-width="1.4"/>
+    <path d="M742 796L152 744" stroke-width="1.4"/>
+    <path d="M260 746V862" stroke-width="1"/>
+    <path d="M388 742V886" stroke-width="1"/>
+    <path d="M520 672V912" stroke-width="1"/>
+    <path d="M914 488V932" stroke-width="1"/>
+    <path d="M1070 542V906" stroke-width="1"/>
+    <path d="M1224 596V880" stroke-width="1"/>
+    <path d="M1368 624V858" stroke-width="1"/>
+    <path d="M742 472L742 962" stroke-width="1"/>
+    <path d="M152 850L742 796L1448 846" stroke-width="1.4"/>
+    <path d="M454 570L454 744" stroke-width="1"/>
+    <path d="M578 500L578 756" stroke-width="1"/>
+    <path d="M906 462L906 762" stroke-width="1"/>
+    <path d="M1038 508L1038 732" stroke-width="1"/>
+    <path d="M356 628L638 648" stroke-width="1"/>
+    <path d="M850 602L1188 682" stroke-width="1"/>
+  </g>
+  <g opacity="0.36" stroke="#CFC4B4" stroke-width="1" stroke-linecap="round">
+    <circle cx="742" cy="404" r="8"/>
+    <circle cx="152" cy="744" r="6"/>
+    <circle cx="1448" cy="652" r="6"/>
+    <path d="M104 198H440"/>
+    <path d="M104 226H370"/>
+    <path d="M104 254H516"/>
+    <path d="M1128 168H1494"/>
+    <path d="M1128 196H1410"/>
+    <path d="M1128 224H1518"/>
+  </g>
+</svg>
